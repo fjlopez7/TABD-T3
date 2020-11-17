@@ -8,6 +8,7 @@ with open("data/resultadosMesas.csv", "r", encoding="utf-8") as file:
         comuna = line.strip().split(";")[4].replace("ni","ni")
         if comuna == "":
             continue
+        comuna = comuna.lower()
         region = line.strip().split(";")[0]  
         if region not in regiones:
             regiones[region] = set()
@@ -22,12 +23,6 @@ with open("data/resultadosMesas.csv", "r", encoding="utf-8") as file:
             dictComunas[comuna][candidato] = 0
         dictComunas[comuna][candidato] += votos
     
-        
-with open("data/resultadosComuna.csv", "w", encoding="utf-8") as file:
-    file.write("comuna,"+",".join(candidatos)+ "\n")
-    for comuna in dictComunas:
-        file.write(comuna+","+",".join(str(dictComunas[comuna][candidato]) for candidato in candidatos)+ "\n")
-
 a = 0
 comu = [
             [1,'Arica',1],
@@ -67,7 +62,7 @@ comu = [
             [35,'Coquimbo',5],
             [36,'La Higuera',5],
             [37,'La Serena',5],
-            [38,'Paihuaco',5],
+            [38,'Paihuano',5],
             [39,'Vicunia',5],
             [40,'Combarbala',5],
             [41,'Monte Patria',5],
@@ -97,7 +92,7 @@ comu = [
             [65,'San Antonio',6],
             [66,'Santo Domingo',6],
             [67,'Catemu',6],
-            [68,'Llaillay',6],
+            [68,'Llay-Llay',6],
             [69,'Panquehue',6],
             [70,'Putaendo',6],
             [71,'San Felipe',6],
@@ -179,12 +174,12 @@ comu = [
             [147,'Rancagua',8],
             [148,'Rengo',8],
             [149,'Requinoa',8],
-            [150,'San Vicente de Tagua Tagua',8],
+            [150,'San Vicente',8],
             [151,'La Estrella',8],
             [152,'Litueche',8],
-            [153,'Marchihue',8],
+            [153,'Marchigue',8],
             [154,'Navidad',8],
-            [155,'Peredones',8],
+            [155,'Paredones',8],
             [156,'Pichilemu',8],
             [157,'Chepica',8],
             [158,'Chimbarongo',8],
@@ -344,7 +339,7 @@ comu = [
             [312,'Puerto Montt',13],
             [313,'Puerto Varas',13],
             [314,'Osorno',13],
-            [315,'Puero Octay',13],
+            [315,'Puerto Octay',13],
             [316,'Purranque',13],
             [317,'Puyehue',13],
             [318,'Rio Negro',13],
@@ -360,7 +355,7 @@ comu = [
             [328,'Cochrane',14],
             [329,'O\'higgins',14],
             [330,'Tortel',14],
-            [331,'Coihaique',14],
+            [331,'Coyhaique',14],
             [332,'Lago Verde',14],
             [333,'Chile Chico',14],
             [334,'Rio Ibaniez',14],
@@ -381,4 +376,7 @@ with open("data/comunas.csv", "w") as file:
     file.write("comuna\n")
     for i in comu:
         file.write(f"{i[1]}\n")
-    
+with open("data/resultadosComuna.csv", "w", encoding="utf-8") as file:
+    file.write("comuna,"+",".join(candidatos)+ "\n")
+    for comuna in comu:
+        file.write(comuna[1]+","+",".join(str(dictComunas[comuna[1].lower()][candidato]) for candidato in candidatos)+ "\n")
