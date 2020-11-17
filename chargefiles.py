@@ -2,7 +2,7 @@
 dictComunas = dict()
 candidatos = []
 regiones = dict()
-with open("resultadosMesas.csv", "r", encoding="utf-8") as file:
+with open("data/resultadosMesas.csv", "r", encoding="utf-8") as file:
     file.readline()
     for i,line in enumerate(file):
         comuna = line.strip().split(";")[4].replace("ni","ni")
@@ -23,7 +23,7 @@ with open("resultadosMesas.csv", "r", encoding="utf-8") as file:
         dictComunas[comuna][candidato] += votos
     
         
-with open("resultadosComuna.csv", "w", encoding="utf-8") as file:
+with open("data/resultadosComuna.csv", "w", encoding="utf-8") as file:
     file.write("comuna,"+",".join(candidatos)+ "\n")
     for comuna in dictComunas:
         file.write(comuna+","+",".join(str(dictComunas[comuna][candidato]) for candidato in candidatos)+ "\n")
@@ -144,7 +144,7 @@ comu = [
             [112,'Lo Prado',7],
             [113,'Macul',7],
             [114,'Maipu',7],
-            [115,'niunioa',7],
+            [115,'Niunioa',7],
             [116,'Pedro Aguirre Cerda',7],
             [117,'Penialolen',7],
             [118,'Providencia',7],
@@ -267,7 +267,7 @@ comu = [
             [235,'Coihueco',10],
             [236,'El Carmen',10],
             [237,'Ninhue',10],
-            [238,'niiquen',10],
+            [238,'Niiquen',10],
             [239,'Pemuco',10],
             [240,'Pinto',10],
             [241,'Portezuelo',10],
@@ -354,7 +354,7 @@ comu = [
             [322,'Futaleufu',13],
             [323,'Hualaihue',13],
             [324,'Palena',13],
-            [325,'Aisen',14],
+            [325,'Aysen',14],
             [326,'Cisnes',14],
             [327,'Guaitecas',14],
             [328,'Cochrane',14],
@@ -376,9 +376,9 @@ comu = [
             [345,'Torres del Paine',15],
             [346,'Cabildo',6]
         ]
-
-l1 = sorted([i for i in dictComunas])
-l2 = sorted([i for _, i,_ in comu])
-for i in range(345):
-    print(l1[i], l2[i])
+comu.sort(key= lambda x: x[1])
+with open("data/comunas.csv", "w") as file:
+    file.write("comuna\n")
+    for i in comu:
+        file.write(f"{i[1]}\n")
     
