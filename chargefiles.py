@@ -14,6 +14,7 @@ with open("data/resultadosMesas.csv", "r", encoding="utf-8") as file:
             regiones[region] = set()
         regiones[region].add(comuna)
         candidato = line.strip().split(";")[12]
+        candidato = " ".join(i.capitalize() for i in candidato.split(" ") if i)
         if candidato not in candidatos:
             candidatos.append(candidato)
         votos = int(line.strip().split(";")[13])
