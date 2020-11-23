@@ -1,0 +1,346 @@
+﻿Codigo;Region;Nombre comuna;Numero de personas;Porcentaje;Limite inferior;Limite superior;Metodologia de Estimacion
+1101;I de Tarapaca;Iquique;7.928;0,04384;3,7%;5,1%;SAE
+1107;I de Tarapaca;Alto Hospicio;9.847;0,07755;6,9%;8,6%;SAE
+1401;I de Tarapaca;Pozo Almonte;1.878;0,10880;7,8%;14,7%;SAE
+1402;I de Tarapaca;Caminia;220;0,26446;;;Estimacion Sintetica
+1403;I de Tarapaca;Colchane;241;0,13948;;;Estimacion Sintetica
+1404;I de Tarapaca;Huara;657;0,18824;12,1%;24,9%;SAE
+1405;I de Tarapaca;Pica;1.412;0,08635;6,0%;13,3%;SAE
+2101;II de Antofagasta;Antofagasta;19.622;0,05064;4,3%;5,9%;SAE
+2102;II de Antofagasta;Mejillones;902;0,07661;4,6%;12,2%;SAE
+2103;II de Antofagasta;Sierra Gorda;30;0,01411;0,2%;5,2%;SAE
+2104;II de Antofagasta;Taltal;309;0,03511;0,8%;4,9%;SAE
+2201;II de Antofagasta;Calama;6.676;0,04585;3,3%;5,8%;SAE
+2202;II de Antofagasta;Ollague;65;0,20191;;;Estimacion Sintetica
+2203;II de Antofagasta;San Pedro de Atacama;384;0,04037;1,8%;7,3%;SAE
+2301;II de Antofagasta;Tocopilla;1.957;0,10404;9,1%;11,9%;SAE
+2302;II de Antofagasta;Maria Elena;112;0,04994;2,3%;7,9%;SAE
+3101;III de Atacama;Copiapo;11.071;0,06261;5,0%;7,5%;SAE
+3102;III de Atacama;Caldera;1.559;0,10441;7,2%;16,6%;SAE
+3103;III de Atacama;Tierra Amarilla;1.797;0,14250;9,7%;19,0%;SAE
+3201;III de Atacama;Chaniaral;1.359;0,12069;8,6%;18,7%;SAE
+3202;III de Atacama;Diego de Almagro;619;0,07562;4,4%;11,0%;SAE
+3301;III de Atacama;Vallenar;3.811;0,08833;7,3%;10,3%;SAE
+3302;III de Atacama;Alto del Carmen;679;0,15273;8,6%;19,2%;SAE
+3303;III de Atacama;Freirina;902;0,15727;10,7%;21,1%;SAE
+3304;III de Atacama;Huasco;746;0,09721;5,5%;13,5%;SAE
+4101;IV de Coquimbo;La Serena;24.640;0,10244;9,0%;11,7%;SAE
+4102;IV de Coquimbo;Coquimbo;32.438;0,13409;12,0%;15,4%;SAE
+4103;IV de Coquimbo;Andacollo;1.087;0,14849;11,7%;20,2%;SAE
+4104;IV de Coquimbo;La Higuera;769;0,20537;16,4%;25,9%;SAE
+4105;IV de Coquimbo;Paihuano;476;0,10481;7,3%;16,6%;SAE
+4106;IV de Coquimbo;Vicunia;3.227;0,12252;8,8%;16,5%;SAE
+4201;IV de Coquimbo;Illapel;3.623;0,12024;8,3%;15,7%;SAE
+4202;IV de Coquimbo;Canela;1.835;0,25102;21,0%;31,4%;SAE
+4203;IV de Coquimbo;Los Vilos;2.560;0,13812;9,6%;19,1%;SAE
+4204;IV de Coquimbo;Salamanca;2.884;0,12529;9,0%;16,7%;SAE
+4301;IV de Coquimbo;Ovalle;6.604;0,05742;4,6%;6,7%;SAE
+4302;IV de Coquimbo;Combarbala;1.801;0,16210;12,2%;20,5%;SAE
+4303;IV de Coquimbo;Monte Patria;6.804;0,21363;17,8%;26,1%;SAE
+4304;IV de Coquimbo;Punitaqui;2.624;0,25163;21,4%;31,5%;SAE
+4305;IV de Coquimbo;Rio Hurtado;684;0,17194;9,9%;20,7%;SAE
+5101;V de Valparaiso;Valparaiso;17.736;0,07078;5,9%;8,3%;SAE
+5102;V de Valparaiso;Casablanca;3.032;0,08922;6,2%;12,9%;SAE
+5103;V de Valparaiso;Concon;1.968;0,02416;0,8%;4,0%;SAE
+5104;V de Valparaiso;Juan Fernandez;47;0,05117;;;Estimacion Sintetica
+5105;V de Valparaiso;Puchuncavi;1.503;0,08446;4,6%;12,2%;SAE
+5107;V de Valparaiso;Quintero;1.478;0,05289;2,2%;7,4%;SAE
+5109;V de Valparaiso;Vinia del Mar;14.411;0,05179;3,9%;6,6%;SAE
+5201;V de Valparaiso;Isla de Pascua;629;0,08118;;;Estimacion Sintetica
+5301;V de Valparaiso;Los Andes;5.503;0,07007;5,2%;9,3%;SAE
+5302;V de Valparaiso;Calle Larga;1.861;0,17180;14,2%;23,2%;SAE
+5303;V de Valparaiso;Rinconada;896;0,10531;6,6%;15,6%;SAE
+5304;V de Valparaiso;San Esteban;2.011;0,10696;6,8%;15,7%;SAE
+5401;V de Valparaiso;La Ligua;6.671;0,16663;13,9%;21,1%;SAE
+5402;V de Valparaiso;Cabildo;3.509;0,16371;12,2%;21,4%;SAE
+5403;V de Valparaiso;Papudo;448;0,07632;5,0%;12,6%;SAE
+5404;V de Valparaiso;Petorca;970;0,10161;7,4%;14,9%;SAE
+5405;V de Valparaiso;Zapallar;359;0,04503;1,2%;6,2%;SAE
+5501;V de Valparaiso;Quillota;9.012;0,09930;8,0%;12,6%;SAE
+5502;V de Valparaiso;Calera;8.856;0,15768;13,9%;18,3%;SAE
+5503;V de Valparaiso;Hijuelas;1.810;0,08977;5,5%;13,0%;SAE
+5504;V de Valparaiso;La Cruz;1.211;0,06928;4,7%;10,6%;SAE
+5506;V de Valparaiso;Nogales;2.142;0,07718;4,4%;10,0%;SAE
+5601;V de Valparaiso;San Antonio;7.639;0,07511;6,0%;9,3%;SAE
+5602;V de Valparaiso;Algarrobo;522;0,03275;1,0%;6,0%;SAE
+5603;V de Valparaiso;Cartagena;2.083;0,06865;3,9%;9,8%;SAE
+5604;V de Valparaiso;El Quisco;653;0,03433;1,2%;6,9%;SAE
+5605;V de Valparaiso;El Tabo;904;0,06202;2,8%;9,6%;SAE
+5606;V de Valparaiso;Santo Domingo;388;0,03980;1,8%;6,5%;SAE
+5701;V de Valparaiso;San Felipe;6.748;0,08170;6,8%;9,6%;SAE
+5702;V de Valparaiso;Catemu;2.265;0,16868;13,5%;22,1%;SAE
+5703;V de Valparaiso;Llay-Llay;1.868;0,07811;4,4%;10,8%;SAE
+5704;V de Valparaiso;Panquehue;796;0,10168;6,8%;13,8%;SAE
+5705;V de Valparaiso;Putaendo;1.640;0,09252;5,9%;12,3%;SAE
+5706;V de Valparaiso;Santa Maria;1.965;0,12910;9,4%;17,5%;SAE
+5801;V de Valparaiso;Quilpue;9.299;0,05254;4,1%;6,5%;SAE
+5802;V de Valparaiso;Limache;2.087;0,04445;3,8%;5,2%;SAE
+5803;V de Valparaiso;Olmue;1.165;0,06922;3,6%;9,5%;SAE
+5804;V de Valparaiso;Villa Alemana;5.722;0,03731;2,8%;4,6%;SAE
+6101;VI del Libertador General Bernardo O'Higgins;Rancagua;27.606;0,10639;8,8%;12,8%;SAE
+6102;VI del Libertador General Bernardo O'Higgins;Codegua;1.185;0,08943;4,6%;12,6%;SAE
+6103;VI del Libertador General Bernardo O'Higgins;Coinco;1.091;0,14439;11,1%;21,0%;SAE
+6104;VI del Libertador General Bernardo O'Higgins;Coltauco;2.591;0,14443;10,6%;20,2%;SAE
+6105;VI del Libertador General Bernardo O'Higgins;Doniihue;1.636;0,07491;4,2%;11,0%;SAE
+6106;VI del Libertador General Bernardo O'Higgins;Graneros;2.300;0,07012;5,6%;8,4%;SAE
+6107;VI del Libertador General Bernardo O'Higgins;Las Cabras;3.347;0,13330;10,2%;19,0%;SAE
+6108;VI del Libertador General Bernardo O'Higgins;Machali;2.812;0,07242;5,2%;10,9%;SAE
+6109;VI del Libertador General Bernardo O'Higgins;Malloa;1.707;0,12142;7,7%;17,1%;SAE
+6110;VI del Libertador General Bernardo O'Higgins;Mostazal;2.843;0,09991;6,4%;13,7%;SAE
+6111;VI del Libertador General Bernardo O'Higgins;Olivar;1.232;0,08492;4,6%;11,8%;SAE
+6112;VI del Libertador General Bernardo O'Higgins;Peumo;1.950;0,12511;9,1%;17,7%;SAE
+6113;VI del Libertador General Bernardo O'Higgins;Pichidegua;2.302;0,11634;8,0%;17,4%;SAE
+6114;VI del Libertador General Bernardo O'Higgins;Quinta de Tilcoco;1.566;0,12904;9,4%;18,8%;SAE
+6115;VI del Libertador General Bernardo O'Higgins;Rengo;6.667;0,10198;8,3%;12,3%;SAE
+6116;VI del Libertador General Bernardo O'Higgins;Requinoa;2.113;0,07709;4,3%;11,2%;SAE
+6117;VI del Libertador General Bernardo O'Higgins;San Vicente;3.557;0,07108;4,6%;9,5%;SAE
+6201;VI del Libertador General Bernardo O'Higgins;Pichilemu;631;0,04057;0,8%;5,8%;SAE
+6202;VI del Libertador General Bernardo O'Higgins;La Estrella;515;0,14014;10,4%;20,1%;SAE
+6203;VI del Libertador General Bernardo O'Higgins;Litueche;532;0,09825;6,3%;14,7%;SAE
+6204;VI del Libertador General Bernardo O'Higgins;Marchigue;508;0,06260;2,7%;9,1%;SAE
+6205;VI del Libertador General Bernardo O'Higgins;Navidad;632;0,11711;7,6%;17,8%;SAE
+6206;VI del Libertador General Bernardo O'Higgins;Paredones;989;0,14785;10,5%;20,5%;SAE
+6301;VI del Libertador General Bernardo O'Higgins;San Fernando;7.729;0,10123;8,2%;12,6%;SAE
+6302;VI del Libertador General Bernardo O'Higgins;Chepica;1.600;0,11950;7,1%;15,5%;SAE
+6303;VI del Libertador General Bernardo O'Higgins;Chimbarongo;5.552;0,15857;12,3%;21,1%;SAE
+6304;VI del Libertador General Bernardo O'Higgins;Lolol;891;0,13359;9,3%;18,9%;SAE
+6305;VI del Libertador General Bernardo O'Higgins;Nancagua;1.990;0,11175;6,8%;15,5%;SAE
+6306;VI del Libertador General Bernardo O'Higgins;Palmilla;1.072;0,09128;5,1%;12,8%;SAE
+6307;VI del Libertador General Bernardo O'Higgins;Peralillo;812;0,07602;3,8%;11,2%;SAE
+6308;VI del Libertador General Bernardo O'Higgins;Placilla;1.506;0,17644;14,4%;25,5%;SAE
+6309;VI del Libertador General Bernardo O'Higgins;Pumanque;312;0,10663;6,4%;16,5%;SAE
+6310;VI del Libertador General Bernardo O'Higgins;Santa Cruz;1.873;0,04964;3,5%;6,3%;SAE
+7101;VII del Maule;Talca;21.110;0,07982;6,7%;9,2%;SAE
+7102;VII del Maule;Constitucion;4.330;0,07541;5,3%;9,1%;SAE
+7103;VII del Maule;Curepto;1.314;0,15418;10,8%;19,9%;SAE
+7104;VII del Maule;Empedrado;625;0,16626;12,2%;21,9%;SAE
+7105;VII del Maule;Maule;2.649;0,11032;6,4%;13,6%;SAE
+7106;VII del Maule;Pelarco;1.063;0,15975;12,0%;21,3%;SAE
+7107;VII del Maule;Pencahue;764;0,08493;4,3%;10,6%;SAE
+7108;VII del Maule;Rio Claro;1.358;0,10634;6,8%;14,1%;SAE
+7109;VII del Maule;San Clemente;6.534;0,16651;12,7%;20,5%;SAE
+7110;VII del Maule;San Rafael;610;0,06978;2,7%;8,1%;SAE
+7201;VII del Maule;Cauquenes;8.411;0,20000;17,2%;23,8%;SAE
+7202;VII del Maule;Chanco;1.876;0,20374;17,0%;25,1%;SAE
+7203;VII del Maule;Pelluhue;1.602;0,19377;16,9%;28,1%;SAE
+7301;VII del Maule;Curico;14.755;0,09851;8,3%;11,3%;SAE
+7302;VII del Maule;Hualanie;2.235;0,21385;17,0%;26,7%;SAE
+7303;VII del Maule;Licanten;1.762;0,23264;19,4%;29,9%;SAE
+7304;VII del Maule;Molina;5.636;0,13051;8,9%;16,1%;SAE
+7305;VII del Maule;Rauco;1.842;0,18139;14,3%;23,7%;SAE
+7306;VII del Maule;Romeral;1.750;0,11691;7,8%;15,5%;SAE
+7307;VII del Maule;Sagrada Familia;2.953;0,15671;10,4%;19,0%;SAE
+7308;VII del Maule;Teno;2.590;0,09153;5,2%;11,5%;SAE
+7309;VII del Maule;Vichuquen;808;0,17128;12,7%;21,7%;SAE
+7401;VII del Maule;Linares;10.438;0,11340;9,7%;13,0%;SAE
+7402;VII del Maule;Colbun;4.684;0,25092;21,2%;32,7%;SAE
+7403;VII del Maule;Longavi;6.806;0,23850;18,6%;28,5%;SAE
+7404;VII del Maule;Parral;6.190;0,16911;13,6%;21,2%;SAE
+7405;VII del Maule;Retiro;3.655;0,22514;18,4%;30,8%;SAE
+7406;VII del Maule;San Javier;8.270;0,20022;16,4%;24,7%;SAE
+7407;VII del Maule;Villa Alegre;2.780;0,19621;15,4%;25,8%;SAE
+7408;VII del Maule;Yerbas Buenas;3.789;0,22079;18,5%;29,1%;SAE
+8101;VIII del Biobio;Concepcion;17.136;0,07695;6,5%;9,2%;SAE
+8102;VIII del Biobio;Coronel;13.037;0,11355;9,4%;13,5%;SAE
+8103;VIII del Biobio;Chiguayante;13.318;0,08715;7,2%;10,4%;SAE
+8104;VIII del Biobio;Florida;1.448;0,15873;12,2%;22,7%;SAE
+8105;VIII del Biobio;Hualqui;3.148;0,12908;8,4%;17,9%;SAE
+8106;VIII del Biobio;Lota;8.235;0,18130;16,6%;19,7%;SAE
+8107;VIII del Biobio;Penco;4.843;0,08587;4,9%;11,9%;SAE
+8108;VIII del Biobio;San Pedro de La Paz;12.859;0,12170;9,5%;18,6%;SAE
+8109;VIII del Biobio;Santa Juana;2.087;0,15479;10,6%;20,6%;SAE
+8110;VIII del Biobio;Talcahuano;13.143;0,07914;6,1%;9,8%;SAE
+8111;VIII del Biobio;Tome;4.142;0,07273;5,4%;9,3%;SAE
+8112;VIII del Biobio;Hualpen;8.466;0,10530;8,8%;12,7%;SAE
+8201;VIII del Biobio;Lebu;3.302;0,13247;8,7%;17,1%;SAE
+8202;VIII del Biobio;Arauco;7.301;0,15933;12,6%;21,2%;SAE
+8203;VIII del Biobio;Caniete;5.427;0,15804;15,3%;16,5%;SAE
+8204;VIII del Biobio;Contulmo;1.058;0,24216;20,0%;32,0%;SAE
+8205;VIII del Biobio;Curanilahue;3.532;0,12304;9,4%;15,2%;SAE
+8206;VIII del Biobio;Los Alamos;3.514;0,16086;11,2%;20,8%;SAE
+8207;VIII del Biobio;Tirua;2.933;0,26081;20,7%;33,3%;SAE
+8301;VIII del Biobio;Los Angeles;37.526;0,17415;15,6%;20,0%;SAE
+8302;VIII del Biobio;Antuco;963;0,28763;25,7%;39,4%;SAE
+8303;VIII del Biobio;Cabrero;3.680;0,11203;7,1%;14,9%;SAE
+8304;VIII del Biobio;Laja;3.615;0,19355;13,6%;24,8%;SAE
+8305;VIII del Biobio;Mulchen;3.964;0,14801;10,7%;19,8%;SAE
+8306;VIII del Biobio;Nacimiento;4.384;0,17353;11,8%;23,1%;SAE
+8307;VIII del Biobio;Negrete;1.580;0,17866;11,4%;22,6%;SAE
+8308;VIII del Biobio;Quilaco;698;0,21121;16,5%;28,1%;SAE
+8309;VIII del Biobio;Quilleco;1.606;0,16048;11,7%;22,6%;SAE
+8310;VIII del Biobio;San Rosendo;666;0,20803;15,3%;26,7%;SAE
+8311;VIII del Biobio;Santa Barbara;2.423;0,16387;11,6%;22,0%;SAE
+8312;VIII del Biobio;Tucapel;2.145;0,15767;11,2%;21,6%;SAE
+8313;VIII del Biobio;Yumbel;4.174;0,21028;17,7%;29,6%;SAE
+8314;VIII del Biobio;Alto Biobio;3.741;0,39734;33,1%;47,0%;SAE
+9101;IX de la Araucania;Temuco;34.717;0,10372;9,1%;11,8%;SAE
+9102;IX de la Araucania;Carahue;5.770;0,24397;20,4%;31,4%;SAE
+9103;IX de la Araucania;Cunco;3.523;0,19654;14,2%;24,8%;SAE
+9104;IX de la Araucania;Curarrehue;1.809;0,22847;17,0%;28,6%;SAE
+9105;IX de la Araucania;Freire;6.655;0,24020;19,8%;30,5%;SAE
+9106;IX de la Araucania;Galvarino;3.647;0,37286;32,7%;46,1%;SAE
+9107;IX de la Araucania;Gorbea;1.688;0,11297;7,0%;15,5%;SAE
+9108;IX de la Araucania;Lautaro;6.126;0,16796;12,2%;21,2%;SAE
+9109;IX de la Araucania;Loncoche;6.116;0,30206;27,8%;34,6%;SAE
+9110;IX de la Araucania;Melipeuco;1.323;0,25712;20,0%;33,5%;SAE
+9111;IX de la Araucania;Nueva Imperial;6.272;0,19881;14,0%;24,6%;SAE
+9112;IX de la Araucania;Padre Las Casas;16.220;0,19622;15,8%;23,3%;SAE
+9113;IX de la Araucania;Perquenco;1.516;0,21933;16,0%;27,4%;SAE
+9114;IX de la Araucania;Pitrufquen;2.567;0,10642;6,3%;13,4%;SAE
+9115;IX de la Araucania;Pucon;3.394;0,08912;4,7%;12,8%;SAE
+9116;IX de la Araucania;Saavedra;4.285;0,35381;29,1%;43,0%;SAE
+9117;IX de la Araucania;Teodoro Schmidt;4.181;0,27462;21,8%;33,9%;SAE
+9118;IX de la Araucania;Tolten;3.104;0,35105;31,7%;46,3%;SAE
+9119;IX de la Araucania;Vilcun;7.633;0,31972;28,6%;40,8%;SAE
+9120;IX de la Araucania;Villarrica;7.967;0,12515;11,1%;14,0%;SAE
+9121;IX de la Araucania;Cholchol;4.292;0,41605;36,9%;51,9%;SAE
+9201;IX de la Araucania;Angol;7.675;0,15559;12,1%;19,0%;SAE
+9202;IX de la Araucania;Collipulli;4.813;0,24028;18,5%;31,8%;SAE
+9203;IX de la Araucania;Curacautin;1.979;0,14215;9,5%;18,7%;SAE
+9204;IX de la Araucania;Ercilla;2.335;0,26687;19,3%;30,8%;SAE
+9205;IX de la Araucania;Lonquimay;3.626;0,33481;28,3%;42,2%;SAE
+9206;IX de la Araucania;Los Sauces;1.308;0,24080;18,6%;30,1%;SAE
+9207;IX de la Araucania;Lumaco;2.995;0,33321;27,8%;41,0%;SAE
+9208;IX de la Araucania;Puren;1.857;0,17703;11,5%;21,4%;SAE
+9209;IX de la Araucania;Renaico;1.591;0,18578;12,8%;23,0%;SAE
+9210;IX de la Araucania;Traiguen;3.422;0,21273;18,2%;25,1%;SAE
+9211;IX de la Araucania;Victoria;6.963;0,22498;17,5%;25,2%;SAE
+10101;X de los Lagos;Puerto Montt;31.232;0,11422;10,1%;13,0%;SAE
+10102;X de los Lagos;Calbuco;4.966;0,13466;9,8%;17,6%;SAE
+10103;X de los Lagos;Cochamo;547;0,13595;;;Estimacion Sintetica
+10104;X de los Lagos;Fresia;2.013;0,18037;13,0%;23,7%;SAE
+10105;X de los Lagos;Frutillar;1.912;0,10357;6,2%;14,1%;SAE
+10106;X de los Lagos;Los Muermos;1.568;0,10407;6,1%;14,4%;SAE
+10107;X de los Lagos;Llanquihue;2.593;0,13691;10,3%;19,6%;SAE
+10108;X de los Lagos;Maullin;1.936;0,16350;11,7%;21,9%;SAE
+10109;X de los Lagos;Puerto Varas;2.531;0,05874;3,4%;8,0%;SAE
+10201;X de los Lagos;Castro;5.949;0,10126;7,7%;13,1%;SAE
+10202;X de los Lagos;Ancud;5.972;0,14519;11,2%;19,9%;SAE
+10203;X de los Lagos;Chonchi;1.962;0,12779;8,2%;17,4%;SAE
+10204;X de los Lagos;Curaco de Velez;569;0,13810;9,4%;20,4%;SAE
+10205;X de los Lagos;Dalcahue;2.116;0,11601;7,0%;15,4%;SAE
+10206;X de los Lagos;Puqueldon;539;0,13815;8,6%;19,3%;SAE
+10207;X de los Lagos;Queilen;1.004;0,19803;15,4%;26,0%;SAE
+10208;X de los Lagos;Quellon;5.131;0,13116;9,4%;17,2%;SAE
+10209;X de los Lagos;Quemchi;1.833;0,20322;16,1%;27,0%;SAE
+10210;X de los Lagos;Quinchao;2.254;0,26960;21,8%;35,1%;SAE
+10301;X de los Lagos;Osorno;14.131;0,08518;7,1%;9,9%;SAE
+10302;X de los Lagos;Puerto Octay;1.157;0,13997;9,1%;18,1%;SAE
+10303;X de los Lagos;Purranque;2.231;0,11231;7,1%;14,9%;SAE
+10304;X de los Lagos;Puyehue;1.241;0,12191;7,8%;16,2%;SAE
+10305;X de los Lagos;Rio Negro;1.783;0,15314;10,4%;20,4%;SAE
+10306;X de los Lagos;San Juan de la Costa;2.111;0,32140;28,0%;41,0%;SAE
+10307;X de los Lagos;San Pablo;1.313;0,16609;11,7%;21,6%;SAE
+10401;X de los Lagos;Chaiten;617;0,12169;;;Estimacion Sintetica
+10402;X de los Lagos;Futaleufu;281;0,10715;;;Estimacion Sintetica
+10403;X de los Lagos;Hualaihue;1.520;0,16992;;;Estimacion Sintetica
+10404;X de los Lagos;Palena;170;0,09958;;;Estimacion Sintetica
+11101;XI Aysen del General Carlos Ibaniez del Campo;Coyhaique;1.646;0,02784;2,1%;3,4%;SAE
+11102;XI Aysen del General Carlos Ibaniez del Campo;Lago Verde;103;0,12039;;;Estimacion Sintetica
+11201;XI Aysen del General Carlos Ibaniez del Campo;Aysen;1.857;0,06809;5,2%;8,5%;SAE
+11202;XI Aysen del General Carlos Ibaniez del Campo;Cisnes;336;0,06502;3,6%;9,8%;SAE
+11203;XI Aysen del General Carlos Ibaniez del Campo;Guaitecas;225;0,12204;;;Estimacion Sintetica
+11301;XI Aysen del General Carlos Ibaniez del Campo;Cochrane;147;0,05884;2,9%;8,7%;SAE
+11302;XI Aysen del General Carlos Ibaniez del Campo;O'Higgins;51;0,08205;;;Estimacion Sintetica
+11303;XI Aysen del General Carlos Ibaniez del Campo;Tortel;76;0,14458;;;Estimacion Sintetica
+11401;XI Aysen del General Carlos Ibaniez del Campo;Chile Chico;282;0,05257;2,8%;8,9%;SAE
+11402;XI Aysen del General Carlos Ibaniez del Campo;Rio Ibaniez;117;0,06549;3,7%;10,9%;SAE
+12101;XII de Magallanes y Antartica Chilena;Punta Arenas;2.528;0,02075;1,7%;2,6%;SAE
+12102;XII de Magallanes y Antartica Chilena;Laguna Blanca;8;0,02926;;;Estimacion Sintetica
+12103;XII de Magallanes y Antartica Chilena;Rio Verde;4;0,00715;;;Estimacion Sintetica
+12104;XII de Magallanes y Antartica Chilena;San Gregorio;11;0,01345;;;Estimacion Sintetica
+12201;XII de Magallanes y Antartica Chilena;Cabo de Hornos;61;0,02947;;;Estimacion Sintetica
+12301;XII de Magallanes y Antartica Chilena;Porvenir;102;0,02104;;;Estimacion Sintetica
+12302;XII de Magallanes y Antartica Chilena;Primavera;27;0,02328;;;Estimacion Sintetica
+12303;XII de Magallanes y Antartica Chilena;Timaukel;2;0,00403;;;Estimacion Sintetica
+12401;XII de Magallanes y Antartica Chilena;Natales;477;0,02326;1,3%;3,6%;SAE
+12402;XII de Magallanes y Antartica Chilena;Torres del Paine;4;0,00317;;;Estimacion Sintetica
+13101;XIII Metropolitana de Santiago;Santiago;5.210;0,04085;3,0%;5,5%;SAE
+13102;XIII Metropolitana de Santiago;Cerrillos;3.826;0,06476;3,3%;10,8%;SAE
+13103;XIII Metropolitana de Santiago;Cerro Navia;9.046;0,07586;6,2%;9,0%;SAE
+13104;XIII Metropolitana de Santiago;Conchali;6.653;0,07432;6,1%;8,9%;SAE
+13105;XIII Metropolitana de Santiago;El Bosque;14.680;0,09584;7,1%;12,3%;SAE
+13106;XIII Metropolitana de Santiago;Estacion Central;5.382;0,05807;4,0%;8,0%;SAE
+13107;XIII Metropolitana de Santiago;Huechuraba;4.917;0,05638;3,2%;9,7%;SAE
+13108;XIII Metropolitana de Santiago;Independencia;3.492;0,08503;6,0%;13,3%;SAE
+13109;XIII Metropolitana de Santiago;La Cisterna;4.004;0,06596;4,5%;10,6%;SAE
+13110;XIII Metropolitana de Santiago;La Florida;17.385;0,04498;3,5%;5,7%;SAE
+13111;XIII Metropolitana de Santiago;La Granja;5.308;0,04751;3,0%;6,5%;SAE
+13112;XIII Metropolitana de Santiago;La Pintana;27.822;0,14142;11,4%;18,0%;SAE
+13113;XIII Metropolitana de Santiago;La Reina;875;0,00986;0,2%;1,9%;SAE
+13114;XIII Metropolitana de Santiago;Las Condes;558;0,00191;0,0%;0,4%;SAE
+13115;XIII Metropolitana de Santiago;Lo Barnechea;3.593;0,02842;2,0%;3,8%;SAE
+13116;XIII Metropolitana de Santiago;Lo Espejo;5.811;0,06687;3,9%;9,6%;SAE
+13117;XIII Metropolitana de Santiago;Lo Prado;4.635;0,05779;3,7%;9,9%;SAE
+13118;XIII Metropolitana de Santiago;Macul;6.275;0,07454;6,3%;8,9%;SAE
+13119;XIII Metropolitana de Santiago;Maipu;28.806;0,02570;1,9%;3,3%;SAE
+13120;XIII Metropolitana de Santiago;Niunioa;1.143;0,00898;0,4%;1,4%;SAE
+13121;XIII Metropolitana de Santiago;Pedro Aguirre Cerda;4.841;0,06211;3,6%;8,9%;SAE
+13122;XIII Metropolitana de Santiago;Penialolen;11.033;0,04369;3,1%;5,8%;SAE
+13123;XIII Metropolitana de Santiago;Providencia;513;0,00432;0,0%;0,7%;SAE
+13124;XIII Metropolitana de Santiago;Pudahuel;24.889;0,08246;6,4%;10,8%;SAE
+13125;XIII Metropolitana de Santiago;Quilicura;15.317;0,05683;3,4%;8,6%;SAE
+13126;XIII Metropolitana de Santiago;Quinta Normal;2.753;0,03727;1,6%;6,0%;SAE
+13127;XIII Metropolitana de Santiago;Recoleta;7.251;0,06894;5,4%;8,9%;SAE
+13128;XIII Metropolitana de Santiago;Renca;4.530;0,03730;2,2%;5,0%;SAE
+13129;XIII Metropolitana de Santiago;San Joaquin;3.315;0,05239;4,3%;6,2%;SAE
+13130;XIII Metropolitana de Santiago;San Miguel;2.945;0,04847;3,2%;7,7%;SAE
+13131;XIII Metropolitana de Santiago;San Ramon;3.390;0,04603;3,4%;5,7%;SAE
+13132;XIII Metropolitana de Santiago;Vitacura;99;0,00135;;;Estimacion Sintetica
+13201;XIII Metropolitana de Santiago;Puente Alto;63.255;0,07294;5,7%;9,3%;SAE
+13202;XIII Metropolitana de Santiago;Pirque;1.284;0,04745;2,3%;9,0%;SAE
+13203;XIII Metropolitana de Santiago;San Jose de Maipo;820;0,05990;3,1%;10,1%;SAE
+13301;XIII Metropolitana de Santiago;Colina;7.919;0,06396;4,4%;8,6%;SAE
+13302;XIII Metropolitana de Santiago;Lampa;2.861;0,03607;2,5%;4,7%;SAE
+13303;XIII Metropolitana de Santiago;Tiltil;1.100;0,06795;4,5%;11,3%;SAE
+13401;XIII Metropolitana de Santiago;San Bernardo;31.280;0,09425;7,4%;12,3%;SAE
+13402;XIII Metropolitana de Santiago;Buin;6.017;0,08041;5,0%;12,6%;SAE
+13403;XIII Metropolitana de Santiago;Calera de Tango;1.112;0,03530;1,3%;6,5%;SAE
+13404;XIII Metropolitana de Santiago;Paine;3.012;0,04240;1,5%;6,3%;SAE
+13501;XIII Metropolitana de Santiago;Melipilla;5.569;0,05168;4,1%;6,1%;SAE
+13502;XIII Metropolitana de Santiago;Alhue;303;0,06713;3,0%;10,0%;SAE
+13503;XIII Metropolitana de Santiago;Curacavi;2.346;0,07439;4,5%;12,1%;SAE
+13504;XIII Metropolitana de Santiago;Maria Pinto;1.298;0,10801;7,4%;16,5%;SAE
+13505;XIII Metropolitana de Santiago;San Pedro;733;0,09271;4,2%;13,4%;SAE
+13601;XIII Metropolitana de Santiago;Talagante;3.114;0,03708;1,6%;6,9%;SAE
+13602;XIII Metropolitana de Santiago;El Monte;2.826;0,08728;5,7%;14,5%;SAE
+13603;XIII Metropolitana de Santiago;Isla de Maipo;2.808;0,08333;5,1%;12,8%;SAE
+13604;XIII Metropolitana de Santiago;Padre Hurtado;4.704;0,08775;5,5%;14,5%;SAE
+13605;XIII Metropolitana de Santiago;Peniaflor;4.597;0,04890;2,4%;7,6%;SAE
+14101;XIV de los Rios;Valdivia;12.560;0,07639;6,5%;8,9%;SAE
+14102;XIV de los Rios;Corral;1.022;0,23148;19,1%;30,4%;SAE
+14103;XIV de los Rios;Lanco;3.090;0,19185;15,0%;24,6%;SAE
+14104;XIV de los Rios;Los Lagos;3.268;0,15490;11,8%;20,1%;SAE
+14105;XIV de los Rios;Mafil;785;0,12555;8,0%;16,6%;SAE
+14106;XIV de los Rios;Mariquina;2.672;0,15628;11,0%;20,2%;SAE
+14107;XIV de los Rios;Paillaco;3.702;0,19127;15,3%;25,0%;SAE
+14108;XIV de los Rios;Panguipulli;4.916;0,14695;13,1%;16,1%;SAE
+14201;XIV de los Rios;La Union;4.770;0,13349;10,6%;16,3%;SAE
+14202;XIV de los Rios;Futrono;2.150;0,14073;9,3%;17,7%;SAE
+14203;XIV de los Rios;Lago Ranco;1.263;0,14617;8,8%;17,7%;SAE
+14204;XIV de los Rios;Rio Bueno;4.783;0,16442;13,2%;20,8%;SAE
+15101;XV de Arica y Parinacota;Arica;13.204;0,08343;7,4%;9,3%;SAE
+15102;XV de Arica y Parinacota;Camarones;130;0,08800;4,8%;16,2%;SAE
+15201;XV de Arica y Parinacota;Putre;82;0,14502;10,1%;21,1%;SAE
+15202;XV de Arica y Parinacota;General Lagos;144;0,20997;;;Estimacion Sintetica
+16101;XVI de niuble;Chillan;20.827;0,11666;10,4%;13,6%;SAE
+16102;XVI de niuble;Bulnes;3.185;0,14881;10,4%;18,8%;SAE
+16103;XVI de niuble;Chillan Viejo;6.862;0,19103;16,2%;24,2%;SAE
+16104;XVI de niuble;El Carmen;3.027;0,28767;23,9%;35,4%;SAE
+16105;XVI de niuble;Pemuco;2.147;0,23841;19,7%;30,9%;SAE
+16106;XVI de niuble;Pinto;2.791;0,25063;20,4%;33,2%;SAE
+16107;XVI de niuble;Quillon;2.557;0,16657;11,1%;23,1%;SAE
+16108;XVI de niuble;San Ignacio;3.730;0,24871;20,0%;32,5%;SAE
+16109;XVI de niuble;Yungay;3.607;0,19379;15,3%;25,8%;SAE
+16201;XVI de niuble;Quirihue;2.067;0,18260;13,1%;22,7%;SAE
+16202;XVI de niuble;Cobquecura;1.501;0,34175;29,9%;40,8%;SAE
+16203;XVI de niuble;Coelemu;2.634;0,18278;12,5%;22,6%;SAE
+16204;XVI de niuble;Ninhue;1.173;0,25342;20,0%;30,8%;SAE
+16205;XVI de niuble;Portezuelo;820;0,18694;13,0%;22,1%;SAE
+16206;XVI de niuble;Ranquil;412;0,09504;4,5%;10,6%;SAE
+16207;XVI de niuble;Treguaco;961;0,20588;15,3%;25,0%;SAE
+16301;XVI de niuble;San Carlos;6.975;0,13799;10,5%;16,1%;SAE
+16302;XVI de niuble;Coihueco;5.422;0,22031;18,0%;27,2%;SAE
+16303;XVI de niuble;Niiquen;1.735;0,19944;14,5%;23,6%;SAE
+16304;XVI de niuble;San Fabian;440;0,13765;9,1%;16,7%;SAE
+16305;XVI de niuble;San Nicolas;1.409;0,14311;10,8%;18,5%;SAE
