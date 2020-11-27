@@ -14,6 +14,6 @@ with open("data/ingresos.csv", "r") as file:
 
 
 with open("data/porcentajePobreza.csv","w") as file:
-    file.write("comuna,porcentaje,categoria\n")
+    file.write("comuna,porcentajePobreza,categoria\n")
     for co in comu:
         file.write(co+","+str(dictIngresos[co])+","+str(int(dictIngresos[co]*10))+"\n")
